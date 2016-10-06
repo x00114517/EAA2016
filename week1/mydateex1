@@ -1,0 +1,7 @@
+#!/bin/bash
+
+
+# date time format:
+# 2016-10-06-09:42:44
+
+mkdir backup_`date +%F-%H:%M:%S
